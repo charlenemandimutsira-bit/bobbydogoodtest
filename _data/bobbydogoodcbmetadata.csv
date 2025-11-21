@@ -1,5 +1,5 @@
 objectid,parentid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-coll001,,bobbydogoodlogo.png,,,Bobby DoGood LawnMower Logo,Bobby Do-Good,2006,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",Bobby DoGood LawnMower Logo,"Austin, Texas",30.28740032,-97.72891194,Charlene Mandimutsira,,Image;StillImage,image/jpeg,eng,Public domain,http://rightsstatements.org/vocab/NoC-US/1.0/
+coll001,,bobbydogoodlogo.png,,,Bobby DoGood LawnMower Logo,Bobby Do-Good,2006,"Logo",Bobby DoGood LawnMower Logo,"Austin, Texas",30.28740032,-97.72891194,Charlene Mandimutsira,,Image;StillImage,image/jpeg,eng,Public domain,http://rightsstatements.org/vocab/NoC-US/1.0/
 coll002,,bronzepic.png,,,Bronze LawnMower Package,Bobby Do-Good,2006,"This is the BRONZE package for the Bobby Do-Good LawnMower Service. Our Bronze Package provides essential lawn maintenance for customers seeking a simple, 
 reliable service.  
 This package includes:  
@@ -45,4 +45,5 @@ coll006,coll005,platbundlepic.png,,,,Bobby Do-Good,2015,,,"Austin, Texas",30.287
 coll007,coll005,silverpackage.pdf,,,,Bobby Do-Good,2015,,,"Austin, Texas",30.28740032,-97.72891194,Charlene Mandimutsira,,Text,application/pdf,eng,,
 coll008,coll005,bronzepackage.pdf,,,,Bobby Do-Good,2015,,,"Austin, Texas",30.28740032,-97.72891194,Charlene Mandimutsira,,Text,application/pdf,eng,,
 coll009,coll005,bundlepackage.pdf,,,,Bobby Do-Good,2015,,,"Austin, Texas",30.28740032,-97.72891194,Charlene Mandimutsira,,Text,application/pdf,eng,,
+
 coll010,coll005,goldpackage.pdf,,,,Bobby Do-Good,2015,,,"Austin, Texas",30.28740032,-97.72891194,Charlene Mandimutsira,,Text,application/pdf,eng,,
