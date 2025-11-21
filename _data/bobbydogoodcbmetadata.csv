@@ -1,0 +1,48 @@
+objectid,parentid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+coll001,,bobbydogoodlogo.png,,,Bobby DoGood LawnMower Logo,Bobby Do-Good,2006,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",Bobby DoGood LawnMower Logo,"Austin, Texas",30.28740032,-97.72891194,Charlene Mandimutsira,,Image;StillImage,image/jpeg,eng,Public domain,http://rightsstatements.org/vocab/NoC-US/1.0/
+coll002,,bronzepic.png,,,Bronze LawnMower Package,Bobby Do-Good,2006,"This is the BRONZE package for the Bobby Do-Good LawnMower Service. Our Bronze Package provides essential lawn maintenance for customers seeking a simple, 
+reliable service.  
+This package includes:  
+• Mowing of front and back lawns
+• Basic edging along sidewalks and driveways  
+• Light grass clippings cleanup  
+Perfect for maintaining a tidy, well kept appearance on a budget. If you're interested in this service, please email bobbydogoodbusiness@gmail.com to set up an appointment!",Bronze,"Austin, Texas",30.28740032,-97.72891194,Charlene Mandimutsira,,Image;StillImage,image/jpeg,eng,,
+coll003,,silverpic.png,,,Silver LawnMower Package,Bobby Do-Good,2008,"This is the SILVER package for the Bobby Do-Good LawnMower Service. 
+The Silver Package offers an enhanced level of lawn maintenance for homes needing more 
+detailed care.  
+This package includes:  
+• Everything in the Bronze Package  
+• Full edging around flowerbeds and walkways  
+• Trimming around fences, trees, and hard to reach areas  
+• Removal of all lawn debris and clippings 
+A balanced, cost effective option for a polished 
+and professional looking yard. If you're interested in this service, please email bobbydogoodbusiness@gmail.com to set up an appointment!",Silver,"Austin, Texas",30.28740032,-97.72891194,Charlene Mandimutsira,,Image;StillImage,image/jpeg,eng,,
+coll004,,goldpic.png,,,Gold LawnMower Package,Bobby Do-Good,2010,"This is the GOLD package for the Bobby Do-Good LawnMower Service. Our Gold Package delivers premium lawn care for homeowners wanting top tier results and 
+maximum curb appeal.  
+This package includes:  
+• Everything in the Silver Package  
+• Seasonal fertilization treatment  
+• Hedge and shrub shaping  
+• Mulch refresh (spring and fall)  
+• Priority scheduling and customer support Ideal for customers who desire comprehensive, 
+year round lawn excellence.  If you're interested in this service, please email bobbydogoodbusiness@gmail.com to set up an appointment!",Gold,"Austin, Texas",30.28740032,-97.72891194,Charlene Mandimutsira,,Image;StillImage,image/jpeg,eng,,
+coll005,,,,,Platinum Bundle Package,Bobby Do-Good,2015,"This is the PLATINUM BUNDLE package for the Bobby Do-Good LawnMower Service. The Platinum Bundle combines the most popular services from the Bronze, Silver, and Gold 
+tiers into one premium, all-inclusive experience. Designed for homeowners who want a 
+consistently flawless lawn without needing to manage scheduling or seasonal upkeep, this 
+package delivers top-tier care all year long.  
+This bundle includes:  
+• Everything in the Gold Package  
+• Monthly lawn health inspections  
+• Seasonal weed control treatment  
+• Soil pH testing and adjustment  
+• Fall leaf removal service  
+• Quarterly hedge and shrub sculpting  
+• Premium customer hotline with 24-hr response  
+• Discounted add-on services (aeration, reseeding, mulch upgrades, etc.)  
+The Platinum Bundle is perfect for clients seeking maximum convenience, professional
+grade maintenance, and the healthiest lawn on the block. If you're interested in this service, please email bobbydogoodbusiness@gmail.com to set up an appointment!",Platinum,"Austin, Texas",30.28740032,-97.72891194,Charlene Mandimutsira,,record,compound_object,eng,,
+coll006,coll005,platbundlepic.png,,,,Bobby Do-Good,2015,,,"Austin, Texas",30.28740032,-97.72891194,Charlene Mandimutsira,,Image;StillImage,image/jpeg,eng,,
+coll007,coll005,silverpackage.pdf,,,,Bobby Do-Good,2015,,,"Austin, Texas",30.28740032,-97.72891194,Charlene Mandimutsira,,Text,application/pdf,eng,,
+coll008,coll005,bronzepackage.pdf,,,,Bobby Do-Good,2015,,,"Austin, Texas",30.28740032,-97.72891194,Charlene Mandimutsira,,Text,application/pdf,eng,,
+coll009,coll005,bundlepackage.pdf,,,,Bobby Do-Good,2015,,,"Austin, Texas",30.28740032,-97.72891194,Charlene Mandimutsira,,Text,application/pdf,eng,,
+coll010,coll005,goldpackage.pdf,,,,Bobby Do-Good,2015,,,"Austin, Texas",30.28740032,-97.72891194,Charlene Mandimutsira,,Text,application/pdf,eng,,
